@@ -5,7 +5,8 @@
 * Go to the issues tab on the repo
 * Find a `good first issue` if possible.
 * Click on the issue of your choice and read it, optionally asking a question or leave a comment.
-Now, to contribute:
+
+### Now, to contribute:
 * Fork the repository in GitHub
 * Click fork in the top right
 * Choose the account to fork into, if applicable.
